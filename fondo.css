@@ -1,8 +1,26 @@
 body{
-    margin: 0;
-    padding: 0;
-    background: url(ragnar.jpg);   
+    margin: 0px;
+    padding: 0px;
+    background: url(fondo.jpeg);   
     background-size: cover;
     background-position: center;
     font-family: sans-serif;
+}
+
+#centro{
+    margin: 100px auto;
+    width: 240px;
+    height: 100px;
+    padding: 40px;
+    position: relative;
+}
+
+#texto_titulo{
+    font-size: 50px;
+    color: black;
+    font-family: Algerian;
+    font-style: italic;
+    text-align: center;
+    background-color: white;
+
 }
